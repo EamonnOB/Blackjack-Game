@@ -10,7 +10,6 @@ public class Blackjack {
 	private ArrayList<Card> dealerHand = new ArrayList<Card>();
 	private int playerScore;
 	private int dealerScore;
-	private int turnCount = 0;
 	
 	Blackjack() {
 		
